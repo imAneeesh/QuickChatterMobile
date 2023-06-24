@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/QuickChatterMobile/static/css/main.ff13b142.css",
+    "main.js": "/QuickChatterMobile/static/js/main.816133ec.js",
+    "static/js/787.8e143ae1.chunk.js": "/QuickChatterMobile/static/js/787.8e143ae1.chunk.js",
+    "static/media/user.svg": "/QuickChatterMobile/static/media/user.e848100a0a6140ea5a142c72368ab3b6.svg",
+    "index.html": "/QuickChatterMobile/index.html",
+    "main.ff13b142.css.map": "/QuickChatterMobile/static/css/main.ff13b142.css.map",
+    "main.816133ec.js.map": "/QuickChatterMobile/static/js/main.816133ec.js.map",
+    "787.8e143ae1.chunk.js.map": "/QuickChatterMobile/static/js/787.8e143ae1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff13b142.css",
+    "static/js/main.816133ec.js"
+  ]
+}
